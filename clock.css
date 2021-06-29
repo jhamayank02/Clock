@@ -1,0 +1,27 @@
+body{
+    background: black;
+    color: white;
+}
+
+h1{
+    font-size: 100px;
+    width: 58%;
+    margin: 50px auto;
+}
+
+#timeDisplay{
+    font-size: 100px;
+    font-weight:bold;
+    color: red;
+}
+
+#dateDisplay{
+    font-size: 60px;
+    font-weight:bold;
+    color: yellow;
+}
+.container{
+    width: 45%;
+    margin: auto;
+    /* margin-top: 200px; */
+}
